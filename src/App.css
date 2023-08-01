@@ -6,7 +6,6 @@
   margin: 0;
   border: 0;
   box-sizing: border-box;
-  color: #404040;
 }
 
 :root {
@@ -16,7 +15,7 @@
 
 body {
   font-family:'Ubuntu', sans-serif;;
-  background-color: #fdfdfd;
+  background-color: #212426;
 }
 
 .app {
